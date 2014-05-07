@@ -1,4 +1,4 @@
 jstree
 ======
 
-using jstree with Intersystems Caché
+using jstree (http://jstree.com) with Intersystems Caché
